@@ -31,6 +31,47 @@ Je suis un passionné de l'intelligence artificielle avec une solide compréhens
   Développement d'un robot triant des déchets en fonction des couleurs pour améliorer la gestion des déchets.
 - **Pan_Card**  
   Application web visant à détecter les cartes d'identité contrefaites.
+
+- Projet : Mini Photoshop avec Gradio
+
+## Description
+![Démo de l'application](assets/im2.png)
+
+Ce projet fait partie d'un défi hebdomadaire dans lequel je développe chaque semaine un projet de vision par ordinateur. Pour cette semaine, j'ai réalisé une application de traitement d'image appelée **Mini Photoshop**. Cette application permet d'appliquer différentes transformations d'images via une interface simple et intuitive créée avec **Gradio**. Le projet a été déployé sur **Hugging Face** afin de le rendre accessible en ligne.
+
+## Fonctionnalités
+
+- **Chargement d'image** : L'utilisateur peut importer une image à partir de son appareil.
+- **Transformation d'image** :
+  - Négatif
+  - Binarisation
+  - Redimensionnement
+  - Rotation
+  - Affichage d'histogramme
+  - Extraction de contours
+  - Opérations morphologiques
+- **Capture via Webcam** : L'utilisateur peut utiliser la webcam pour capturer une photo et appliquer les transformations.
+- **Téléchargement** : Possibilité de télécharger l'image transformée.
+
+## Technologies Utilisées
+
+- **Python**
+- **Gradio** : Pour l'interface utilisateur.
+- **OpenCV** : Pour les transformations d'images.
+- **PIL** (Python Imaging Library) : Pour certaines opérations de traitement d'images.
+- **Hugging Face Spaces** : Pour le déploiement de l'application.
+
+## Installation et Utilisation
+
+### Pré-requis
+
+- Python 3.x
+- Gradio
+- OpenCV
+- PIL
+
+Vous pouvez tester l'application en ligne via ce lien : [Lien Hugging Face]( https://github.com/elfried96/elf_data-scient/tree/main).
+
 ---
 ### Compétences
 - **Langages de programmation :** C, C++, Java, Python
