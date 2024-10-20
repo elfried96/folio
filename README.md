@@ -32,7 +32,7 @@ Je suis un passionné de l'intelligence artificielle avec une solide compréhens
 - **Pan_Card**  
   Application web visant à détecter les cartes d'identité contrefaites.
 
-- Projet : Mini Photoshop avec Gradio
+- **Mini Photoshop avec Gradio**
 
 ## Description
 ![Démo de l'application](assets/im2.png)
