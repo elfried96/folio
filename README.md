@@ -72,6 +72,26 @@ Ce projet fait partie d'un défi hebdomadaire dans lequel je développe chaque s
 
 Vous pouvez tester l'application en ligne via ce lien : [Lien Hugging Face]( https://github.com/elfried96/elf_data-scient/tree/main).
 
+# FitForAll
+
+✨ **FitForAll : Promouvoir l'inclusivité dans la mode grâce à l'intelligence artificielle** ✨
+
+### Contexte
+L'industrie de la mode a longtemps été critiquée pour son manque d'inclusivité, notamment en ce qui concerne la diversité des corps et des ethnies. FitForAll vise à combler cette lacune en proposant une approche technologique pour analyser les vêtements selon différents types de morphologies et d'ethnies.
+
+### Objectif
+Développer une application web capable de recommander des styles vestimentaires en fonction de la morphologie et de l'ethnie des utilisateurs, en utilisant des techniques de segmentation d'images et d'intelligence artificielle.
+
+### Avancement
+Cette semaine, nous avons travaillé sur un modèle de segmentation d'images et produit un MVP. Voici une capture de l'interface :
+
+![Capture d'écran](./assets/ima3.png)
+
+### Prochaines étapes
+- Amélioration de l'interface utilisateur
+- Test et ajustement du modèle de recommandation
+
+
 ---
 ### Compétences
 - **Langages de programmation :** C, C++, Java, Python
